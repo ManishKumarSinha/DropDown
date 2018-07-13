@@ -30,6 +30,7 @@
 	</dependency>
 	
 	<!-- JSTL --> 
+	  <!-- JSTL1 --> 
 	<dependency>
 		<groupId>javax.servlet</groupId>
 		<artifactId>jstl</artifactId>
